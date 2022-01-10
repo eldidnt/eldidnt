@@ -4,6 +4,7 @@
 * I'm currently a systems engineering student, on [Universidad Privada del Norte(UPN)](https://github.com/universidadprivadadelnorte) [(WebSite)](https://www.upn.edu.pe/).
 * I’m currently learning Java, JavaScript and HTML.
 
+![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldidnt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Contact
 
