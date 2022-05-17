@@ -11,7 +11,7 @@
 
 ### Contact
 
-* If you want to contact me you can [click here](https://maslinks.com/didnt)
+* If you want to contact me [[click here]](https://maslinks.com/didnt)
 
 ### Languages and Tools:
 
