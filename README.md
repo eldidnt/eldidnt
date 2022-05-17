@@ -2,7 +2,7 @@
 
 * Man, 20 years old I live in  Lima, Perú.
 * I'm currently a systems engineering student, on [Universidad Privada del Norte(UPN)](https://github.com/universidadprivadadelnorte)
-* I’m currently learning Java, JavaScript and HTML.
+* I’m currently learning Java, C# and JavaScript
 
 ### Stats
 
