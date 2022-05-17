@@ -1,7 +1,7 @@
 ### Hello everyone I'm Didnt
 
 * Man, 20 years old I live in  Lima, Perú.
-* I'm currently a systems engineering student, on [Universidad Privada del Norte(UPN)](https://github.com/universidadprivadadelnorte) [(WebSite)](https://www.upn.edu.pe/).
+* I'm currently a systems engineering student, on [Universidad Privada del Norte(UPN)](https://github.com/universidadprivadadelnorte)
 * I’m currently learning Java, JavaScript and HTML.
 
 ### Stats
