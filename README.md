@@ -4,15 +4,6 @@
 * I'm currently a systems engineering student, on [Universidad Privada del Norte(UPN)](https://github.com/universidadprivadadelnorte)
 * Java, C#, Python, Asp.net core, HTML, CSS, Spring and JavaScript junior developer.
 
-### Stats
-
-![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldidnt&bg_color=30,50FF2D,04610A&title_color=fff&text_color=fff)
-
-
-### Contact
-
-* If you want to contact me [[click here]](https://maslinks.com/didnt)
-
 ### Languages and Tools:
 
 <p align="left">
