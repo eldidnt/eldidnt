@@ -2,7 +2,7 @@
 
 * Man, 22 years old I live in  Lima, Perú.
 * I'm currently a systems engineering student, on [Universidad Privada del Norte(UPN)](https://github.com/universidadprivadadelnorte)
-* Java, C#, Python, Asp.net core, HTML, CSS, Spring and JavaScript junior developer.
+* Java, C#, Python, Asp.net core, HTML, CSS, Spring and JavaScript Junior Developer.
 
 ### Languages and Tools:
 
