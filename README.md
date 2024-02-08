@@ -59,9 +59,3 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
-
-
-### Donate
-
-* You can support me by donating in [Paypal](https://www.paypal.com/paypalme/eldidnt)
-<p><a href="https://www.paypal.com/paypalme/eldidnt"> <img align="left" src="https://i.imgur.com/PIArbiB.png" height="50" width="210" alt="https://www.paypal.com/paypalme/eldidnt" /></a></p><br><br>
