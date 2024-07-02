@@ -30,4 +30,5 @@
 </p>
 
 ## Stats:
-[Didnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldidnt&show_icons=true&theme=transparent)
+
+[![Didnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldidnt&show_icons=true&theme=transparent)](https://github.com/eldidnt)
